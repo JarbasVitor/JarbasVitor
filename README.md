@@ -1,5 +1,10 @@
-## Bom Dia, Boa Tarde, Boa Noite! 
-### Sou Jarbas Vitor, Atualmente um iniciante da area de programação e desenvolvimento.
+<div align="center">
+  <h3> Bom Dia, Boa Tarde, Boa Noite! 😀</h3>
+  <p> Sou Jarbas Vitor, Atualmente um iniciante da area de programação e desenvolvimento.🎈</p>
+</div>
+  
+## 
+
 <div align="center">
   <a href="https://github.com/JarbasVitor"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JarbasVitor&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
